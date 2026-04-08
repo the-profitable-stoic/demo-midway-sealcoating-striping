@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-midway-sealcoating-striping.dream-surge.com/sitemap-index.xml

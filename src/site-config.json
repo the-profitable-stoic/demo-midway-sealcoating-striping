@@ -1,0 +1,612 @@
+{
+  "business": {
+    "name": "Midway Sealcoating & Striping",
+    "phone": "+18174677003",
+    "category": "paving contractor",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Arlington's Paving Experts",
+      "heroSubline": "Midway Sealcoating & Striping delivers durable, high-quality paving solutions across the Dallas-Fort Worth area. We handle everything from driveways to parking lots with precision and care.",
+      "aboutTitle": "Reliable Paving Solutions in Arlington, TX",
+      "aboutText": [
+        "Midway Sealcoating & Striping started with a simple goal: to provide honest, reliable paving services to our neighbors in Arlington and beyond. Founded over a decade ago, we've built our reputation on hard work and unwavering commitment to quality.",
+        "We approach every project, big or small, with meticulous attention to detail. From initial assessment to final striping, we ensure every step meets our rigorous standards. We use only premium materials and proven techniques to deliver long-lasting results.",
+        "As a local Arlington business, we're committed to giving back to the community. We actively support local initiatives and strive to be a responsible and environmentally conscious paving contractor."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team brings years of expertise to every paving project, ensuring superior results."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest-grade asphalt and sealant products for lasting durability."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer fair and transparent pricing without compromising on quality workmanship."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Your satisfaction is our top priority. We're not finished until you're completely happy with the job."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Paving Estimate Today!",
+      "ctaSubline": "Contact Midway Sealcoating & Striping for a no-obligation quote. Let's discuss your project and find the perfect paving solution."
+    },
+    "services": [
+      {
+        "slug": "asphalt-paving",
+        "name": "Asphalt Paving",
+        "shortDescription": "Durable and reliable asphalt paving for driveways, parking lots, and more.",
+        "description": "Midway Sealcoating & Striping offers comprehensive asphalt paving services for residential and commercial properties. We understand the unique challenges of the Arlington climate, from the scorching summer heat to the occasional ice storm. That's why we use only premium asphalt mixes specifically formulated for Texas weather. \n\nOur experienced team handles every aspect of the paving process, from site preparation and grading to asphalt installation and compaction. We ensure proper drainage to prevent water damage and use state-of-the-art equipment for smooth, even surfaces. Whether you need a new driveway, a parking lot expansion, or a complete asphalt replacement, we deliver durable and long-lasting results.\n\nWe carefully assess the soil conditions, traffic volume, and intended use of the paved area to recommend the optimal asphalt thickness and mix design. Our goal is to provide a paving solution that meets your specific needs and withstands the test of time. Trust Midway Sealcoating & Striping for asphalt paving that enhances the value and functionality of your property.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Grading and Base Installation",
+          "Step 3: Asphalt Paving and Compaction",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting",
+          "Smooth and Safe Surface"
+        ],
+        "faq": [
+          {
+            "question": "How long does asphalt paving typically last?",
+            "answer": "With proper installation and maintenance, asphalt paving can last 15-20 years or more in the Arlington area."
+          },
+          {
+            "question": "What factors affect the cost of asphalt paving?",
+            "answer": "The cost depends on the size of the area, the thickness of the asphalt, the complexity of the project, and any necessary site preparation."
+          },
+          {
+            "question": "How do I maintain my new asphalt pavement?",
+            "answer": "Regular sealcoating, crack filling, and proper drainage are essential for extending the life of your asphalt pavement."
+          }
+        ]
+      },
+      {
+        "slug": "sealcoating",
+        "name": "Sealcoating",
+        "shortDescription": "Protect and extend the life of your asphalt with our professional sealcoating services.",
+        "description": "Sealcoating is a crucial maintenance step for protecting your asphalt pavement from the damaging effects of weather, traffic, and chemicals. In Arlington, the intense summer sun and occasional freeze-thaw cycles can wreak havoc on asphalt surfaces, leading to cracks, fading, and premature deterioration. Midway Sealcoating & Striping provides expert sealcoating services to combat these issues and prolong the life of your pavement.\n\nOur sealcoating process involves thoroughly cleaning and preparing the asphalt surface, filling any minor cracks, and applying a high-quality sealant. The sealant creates a protective barrier that prevents water penetration, resists oil and chemical spills, and shields the asphalt from UV damage. This not only extends the lifespan of your pavement but also enhances its appearance, giving it a fresh, black look.\n\nWe use only premium sealcoating products that are specifically designed for the Texas climate. Our experienced technicians ensure proper application and curing for optimal performance. Whether you need sealcoating for a driveway, parking lot, or commercial property, Midway Sealcoating & Striping delivers exceptional results that protect your investment.",
+        "process": [
+          "Step 1: Thorough Cleaning and Preparation",
+          "Step 2: Crack Filling and Repair",
+          "Step 3: Sealant Application",
+          "Step 4: Curing and Inspection"
+        ],
+        "benefits": [
+          "Protects Against Weather Damage",
+          "Extends Asphalt Lifespan",
+          "Enhances Appearance",
+          "Prevents Cracking and Deterioration"
+        ],
+        "faq": [
+          {
+            "question": "How often should I sealcoat my asphalt pavement?",
+            "answer": "We recommend sealcoating every 2-3 years in Arlington to maintain optimal protection."
+          },
+          {
+            "question": "What are the benefits of sealcoating?",
+            "answer": "Sealcoating protects against water penetration, UV damage, oil spills, and general wear and tear, extending the life of your asphalt."
+          },
+          {
+            "question": "How long does sealcoating take to dry?",
+            "answer": "Sealcoating typically takes 24-48 hours to fully cure and dry, depending on weather conditions."
+          }
+        ]
+      },
+      {
+        "slug": "asphalt-repair",
+        "name": "Asphalt Repair",
+        "shortDescription": "Expert asphalt repair services to fix cracks, potholes, and other pavement damage.",
+        "description": "Asphalt damage is inevitable over time, especially with the fluctuating temperatures and occasional severe weather we experience in Arlington. Cracks, potholes, and surface deterioration not only detract from the appearance of your property but also pose safety hazards and can lead to more extensive and costly repairs if left unaddressed. Midway Sealcoating & Striping offers comprehensive asphalt repair services to restore the integrity and functionality of your pavement.\n\nOur skilled technicians use proven techniques and quality materials to effectively repair a wide range of asphalt issues. We fill cracks with hot-applied crack sealant to prevent water penetration and further damage. For potholes and larger damaged areas, we use asphalt patching to restore a smooth, even surface. We also offer asphalt resurfacing for pavements with significant wear and tear.\n\nWe understand the importance of timely and effective asphalt repair. Our team responds quickly to assess the damage and provide efficient, reliable repair services that minimize disruption to your property. Trust Midway Sealcoating & Striping to keep your asphalt pavement in top condition.",
+        "process": [
+          "Step 1: Damage Assessment and Evaluation",
+          "Step 2: Crack Filling and Sealing",
+          "Step 3: Pothole Repair and Patching",
+          "Step 4: Resurfacing (if needed)"
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Improves Safety",
+          "Enhances Appearance",
+          "Extends Pavement Life"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my asphalt needs repair?",
+            "answer": "Common signs include cracks, potholes, uneven surfaces, and water pooling."
+          },
+          {
+            "question": "What is the best way to repair asphalt cracks?",
+            "answer": "Hot-applied crack sealant is the most effective way to prevent water penetration and further damage."
+          },
+          {
+            "question": "How long does asphalt repair typically last?",
+            "answer": "The lifespan of asphalt repair depends on the quality of the repair and the severity of the damage, but proper repair can last several years."
+          }
+        ]
+      },
+      {
+        "slug": "striping",
+        "name": "Pavement Striping",
+        "shortDescription": "Professional pavement striping services for parking lots, roadways, and more.",
+        "description": "Clear and well-maintained pavement markings are essential for ensuring safety and organization in parking lots, roadways, and other paved areas. Midway Sealcoating & Striping offers professional pavement striping services that comply with all local regulations and industry standards. We use high-quality traffic paint that is durable, weather-resistant, and highly visible.\n\nOur experienced striping team can handle a wide range of striping projects, including parking stall markings, directional arrows, crosswalks, handicap parking spaces, and custom stencils. We pay close attention to detail to ensure accurate and consistent markings that enhance the functionality and safety of your paved areas. Whether you need new striping for a newly paved surface or restriping for an existing parking lot, Midway Sealcoating & Striping delivers exceptional results.\n\nWe understand the importance of minimizing disruption to your business or property. Our team works efficiently and professionally to complete striping projects with minimal downtime. Trust Midway Sealcoating & Striping for pavement striping that meets your specific needs and enhances the overall appearance of your property.",
+        "process": [
+          "Step 1: Layout and Marking",
+          "Step 2: Surface Preparation",
+          "Step 3: Paint Application",
+          "Step 4: Inspection and Touch-Up"
+        ],
+        "benefits": [
+          "Improved Safety",
+          "Enhanced Organization",
+          "Compliance with Regulations",
+          "Professional Appearance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I restripe my parking lot?",
+            "answer": "We recommend restriping every 1-2 years, depending on traffic volume and weather conditions."
+          },
+          {
+            "question": "What type of paint do you use for pavement striping?",
+            "answer": "We use high-quality, durable traffic paint that is specifically designed for pavement markings."
+          },
+          {
+            "question": "Can you create custom stencils for pavement striping?",
+            "answer": "Yes, we can create custom stencils for logos, lettering, and other specialized markings."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-work",
+        "name": "Concrete Paving",
+        "shortDescription": "Concrete paving and repair services for sidewalks, patios, and driveways.",
+        "description": "While asphalt is a popular choice for paving, concrete offers its own unique advantages, including exceptional durability and versatility. Midway Sealcoating & Striping provides comprehensive concrete paving and repair services for residential and commercial properties in Arlington and the surrounding areas. We have the expertise and equipment to handle a wide range of concrete projects, from sidewalks and patios to driveways and foundations.\n\nOur skilled concrete team uses high-quality concrete mixes and proven techniques to ensure strong, long-lasting results. We pay close attention to detail during every step of the process, from site preparation and formwork to concrete pouring and finishing. We also offer a variety of decorative concrete options, including stamped concrete and colored concrete, to enhance the aesthetic appeal of your property.\n\nWhether you need a new concrete driveway, a repaired sidewalk, or a custom concrete patio, Midway Sealcoating & Striping delivers exceptional craftsmanship and customer service. We work closely with you to understand your specific needs and create a concrete solution that meets your budget and exceeds your expectations.",
+        "process": [
+          "Step 1: Site Preparation and Excavation",
+          "Step 2: Formwork and Reinforcement",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Versatile Design Options",
+          "Increased Property Value",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of choosing concrete over asphalt?",
+            "answer": "Concrete is generally more durable and requires less maintenance than asphalt. It also offers more design options."
+          },
+          {
+            "question": "How long does concrete paving typically last?",
+            "answer": "With proper installation and maintenance, concrete paving can last 30 years or more."
+          },
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is a decorative concrete technique that uses stamps to create patterns and textures that mimic natural stone, brick, or other materials."
+          }
+        ]
+      },
+      {
+        "slug": "parking-lot-maintenance",
+        "name": "Parking Lot Maintenance",
+        "shortDescription": "Comprehensive parking lot maintenance services to keep your pavement in top condition.",
+        "description": "A well-maintained parking lot is essential for creating a positive impression and ensuring the safety of your customers and employees. Midway Sealcoating & Striping offers comprehensive parking lot maintenance services to keep your pavement in top condition year-round. We understand the specific challenges that parking lots face in the Arlington area, from heavy traffic and vehicle spills to weather-related damage.\n\nOur parking lot maintenance services include sealcoating, crack filling, pothole repair, striping, and power washing. We also offer regular sweeping and debris removal to keep your parking lot clean and safe. Our experienced team works efficiently and professionally to minimize disruption to your business while providing exceptional results. We can tailor our maintenance services to meet your specific needs and budget.\n\nBy investing in regular parking lot maintenance, you can extend the life of your pavement, prevent costly repairs, and enhance the overall appearance of your property. Trust Midway Sealcoating & Striping to keep your parking lot in top condition for years to come.",
+        "process": [
+          "Step 1: Site Assessment and Inspection",
+          "Step 2: Cleaning and Debris Removal",
+          "Step 3: Crack Filling and Pothole Repair",
+          "Step 4: Sealcoating and Striping"
+        ],
+        "benefits": [
+          "Extended Pavement Life",
+          "Reduced Repair Costs",
+          "Improved Safety",
+          "Enhanced Appearance"
+        ],
+        "faq": [
+          {
+            "question": "What is included in a parking lot maintenance program?",
+            "answer": "A comprehensive program typically includes sealcoating, crack filling, pothole repair, striping, and cleaning."
+          },
+          {
+            "question": "How often should I schedule parking lot maintenance?",
+            "answer": "We recommend scheduling regular maintenance at least once a year, or more frequently for high-traffic areas."
+          },
+          {
+            "question": "What are the benefits of power washing a parking lot?",
+            "answer": "Power washing removes dirt, oil, and other contaminants that can damage the pavement and create safety hazards."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-paving",
+        "name": "Driveway Paving",
+        "shortDescription": "Enhance your home's curb appeal with our professional driveway paving services.",
+        "description": "Your driveway is one of the first things people see when they arrive at your home, so it's important to make a good impression. Midway Sealcoating & Striping offers professional driveway paving services that enhance your home's curb appeal and increase its value. We provide both asphalt and concrete driveway paving options to suit your style and budget.\n\nOur experienced team works closely with you to design a driveway that complements your home's architecture and landscape. We carefully prepare the site, ensuring proper drainage and a solid foundation. We then install the asphalt or concrete using proven techniques and high-quality materials. We also offer a variety of decorative options, such as stamped concrete and colored asphalt, to create a unique and personalized driveway.\n\nWhether you need a new driveway installed or an existing driveway replaced, Midway Sealcoating & Striping delivers exceptional craftsmanship and customer service. We take pride in our work and are committed to providing you with a driveway that you'll be proud of for years to come.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Site Preparation and Excavation",
+          "Step 3: Paving Material Installation",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting",
+          "Custom Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of asphalt vs. concrete for driveways?",
+            "answer": "Asphalt is typically more affordable and flexible, while concrete is more durable and offers more design options."
+          },
+          {
+            "question": "How long does a driveway paving project typically take?",
+            "answer": "The duration of the project depends on the size and complexity of the driveway, but it typically takes 1-3 days."
+          },
+          {
+            "question": "How do I maintain my new driveway?",
+            "answer": "Regular cleaning and sealing are essential for extending the life of your driveway. For asphalt, sealcoating every 2-3 years is recommended."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is proud to serve the vibrant city of Dallas, Texas. From the classic 1950s ranch-style homes in established neighborhoods to the bustling downtown area, we offer comprehensive paving solutions tailored to Dallas' unique needs. Our expertise includes asphalt repair, sealcoating, and striping, ensuring your driveways, parking lots, and roadways are safe and aesthetically pleasing.",
+        "localContext": "Dallas experiences hot, humid summers, making durable and weather-resistant paving solutions essential to withstand the Texas climate.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is your trusted paving partner in Fort Worth, Texas. We understand the unique character of Fort Worth, from the charming Craftsman bungalows near downtown to the modern developments throughout the city. Our services include asphalt paving, sealcoating, and parking lot striping, all designed to enhance the value and curb appeal of your property.",
+        "localContext": "Fort Worth's hot, humid summers demand high-quality paving materials and expert installation to ensure longevity and performance.",
+        "nearbyAreas": [
+          "Arlington",
+          "Grand Prairie",
+          "Keller"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "As a local business, Midway Sealcoating & Striping is deeply committed to serving the Arlington community. We offer a full range of asphalt paving and maintenance services to meet the needs of homeowners and businesses alike. From driveway sealcoating to parking lot striping, we use only the highest quality materials and proven techniques to ensure lasting results.",
+        "localContext": "Arlington's diverse neighborhoods and thriving business sector require reliable and professional paving services to maintain its aesthetic appeal and infrastructure.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is pleased to offer top-notch paving services to the residents and businesses of Plano, Texas. With its established subdivisions dating back to the 1980s and 90s, Plano requires expert attention to maintain and improve existing asphalt surfaces. We provide comprehensive solutions, including asphalt repair, sealcoating, and striping, to ensure your property looks its best.",
+        "localContext": "Plano's hot, humid summers and occasional heavy rainfall necessitate durable paving solutions that can withstand the elements.",
+        "nearbyAreas": [
+          "Frisco",
+          "Allen",
+          "Richardson"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping proudly serves the rapidly growing city of Frisco, Texas. Known for its newer construction from the 2000s and 2020s, Frisco demands modern and reliable paving solutions. We offer a full suite of services, including asphalt paving, sealcoating, and parking lot striping, tailored to the unique needs of Frisco's residential and commercial properties.",
+        "localContext": "Frisco's continued growth and development require experienced paving contractors to maintain and enhance its infrastructure.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is dedicated to providing exceptional paving services to the historic city of McKinney, Texas. From the charming homes in the historic downtown area to the newer developments throughout the city, we offer comprehensive solutions to meet your paving needs. Our services include asphalt repair, sealcoating, and striping, ensuring your property maintains its beauty and value.",
+        "localContext": "McKinney's blend of historic charm and modern growth requires a paving contractor that understands the unique needs of both residential and commercial properties.",
+        "nearbyAreas": [
+          "Allen",
+          "Frisco",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is proud to serve the residents and businesses of Grand Prairie, Texas. We provide a full range of asphalt paving and maintenance services to meet the diverse needs of this growing city. From residential driveways to commercial parking lots, we use only the highest quality materials and proven techniques to ensure lasting results.",
+        "localContext": "Grand Prairie's central location and thriving economy make it essential to have reliable and professional paving services.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is committed to providing top-quality paving services to the city of Irving, Texas. Whether you need asphalt repair, sealcoating, or parking lot striping, we have the expertise and experience to get the job done right. We serve both residential and commercial clients, ensuring your property looks its best.",
+        "localContext": "Irving's proximity to DFW Airport and its numerous corporate headquarters make it crucial to maintain its infrastructure and aesthetic appeal.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is pleased to offer comprehensive paving solutions to the residents and businesses of Allen, Texas. We understand the importance of maintaining and improving your asphalt surfaces. Our services include asphalt repair, sealcoating, and striping, designed to enhance the value and curb appeal of your property.",
+        "localContext": "Allen's growing community and commitment to quality living make it essential to have reliable and professional paving services.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "Midway Sealcoating & Striping is dedicated to providing exceptional paving services to the city of Richardson, Texas. We offer a full range of asphalt paving and maintenance services to meet the needs of homeowners and businesses alike. From driveway sealcoating to parking lot striping, we use only the highest quality materials and proven techniques to ensure lasting results.",
+        "localContext": "Richardson's thriving technology sector and well-maintained neighborhoods require reliable and professional paving services.",
+        "nearbyAreas": [
+          "Plano",
+          "Dallas",
+          "Garland"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "Midway Sealcoating did an amazing job on our new driveway! They were professional, efficient, and the quality of the work is outstanding. Our neighbors have already commented on how great it looks. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Parking Lot Sealcoating",
+        "text": "We hired Midway to sealcoat our small business parking lot. They were quick to respond, gave a fair quote, and completed the job on schedule. There was a small area that needed a touch-up, and they came back immediately to fix it. Good service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Maria R.",
+        "rating": 5,
+        "service": "Asphalt Repair",
+        "text": "We had some serious potholes in our driveway after the winter freeze. Midway Sealcoating came out and repaired them quickly and professionally. It looks like new again! Very happy with their work.",
+        "date": "2024-07-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Pavement Striping",
+        "text": "Midway Sealcoating did an excellent job striping our church parking lot. The lines are crisp and clean, and they were very accommodating to our service schedule. Will definitely use them again.",
+        "date": "2024-05-12"
+      },
+      {
+        "name": "Karen S.",
+        "rating": 4,
+        "service": "Concrete Patio",
+        "text": "We had Midway install a concrete patio in our backyard. The crew was hard-working and professional. There was a small hiccup with the initial color, but they were quick to correct it and the final result is beautiful. We're enjoying our new outdoor space!",
+        "date": "2024-01-28"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Parking Lot Maintenance",
+        "text": "Midway Sealcoating has been maintaining our company parking lot for years. They do a great job keeping it clean, safe, and well-maintained. Their prices are competitive, and their service is always top-notch.",
+        "date": "2023-10-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington TX Paving Contractor | Midway Sealcoating",
+        "description": "Trusted paving contractor in Arlington, TX. Asphalt, sealcoating, striping, and concrete services. Free estimates! Call +18174677003."
+      },
+      "about": {
+        "title": "About Midway Sealcoating & Striping",
+        "description": "Learn about Midway Sealcoating & Striping, Arlington TX's trusted paving company. Quality asphalt, concrete, and sealcoating services."
+      },
+      "services": {
+        "title": "Midway Sealcoating - Paving Services",
+        "description": "Arlington, TX paving services: asphalt paving, sealcoating, repair, striping, concrete. Serving Dallas-Fort Worth."
+      },
+      "contact": {
+        "title": "Contact Midway Sealcoating & Striping",
+        "description": "Contact Midway Sealcoating & Striping for paving estimates in Arlington, TX. Call +18174677003 for asphalt, sealcoating, and striping."
+      },
+      "reviews": {
+        "title": "Midway Sealcoating Reviews & Testimonials",
+        "description": "Read reviews for Midway Sealcoating & Striping in Arlington, TX. See what our satisfied customers say about our paving services."
+      },
+      "service-areas": {
+        "title": "Midway Sealcoating Service Areas",
+        "description": "Midway Sealcoating & Striping provides paving services throughout the Dallas-Fort Worth area. Serving Arlington, Dallas, Plano and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-paving": "/images/service-asphalt-paving.webp",
+      "sealcoating": "/images/service-sealcoating.webp",
+      "asphalt-repair": "/images/service-asphalt-repair.webp",
+      "striping": "/images/service-striping.webp",
+      "concrete-work": "/images/service-concrete-work.webp",
+      "parking-lot-maintenance": "/images/service-parking-lot-maintenance.webp",
+      "driveway-paving": "/images/service-driveway-paving.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-paving": {
+        "src": "/images/service-asphalt-paving.webp",
+        "srcset": "/images/service-asphalt-paving-400w.webp 400w, /images/service-asphalt-paving-800w.webp 800w, /images/service-asphalt-paving-1200w.webp 1200w, /images/service-asphalt-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sealcoating": {
+        "src": "/images/service-sealcoating.webp",
+        "srcset": "/images/service-sealcoating-400w.webp 400w, /images/service-sealcoating-800w.webp 800w, /images/service-sealcoating-1200w.webp 1200w, /images/service-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asphalt-repair": {
+        "src": "/images/service-asphalt-repair.webp",
+        "srcset": "/images/service-asphalt-repair-400w.webp 400w, /images/service-asphalt-repair-800w.webp 800w, /images/service-asphalt-repair-1200w.webp 1200w, /images/service-asphalt-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "striping": {
+        "src": "/images/service-striping.webp",
+        "srcset": "/images/service-striping-400w.webp 400w, /images/service-striping-800w.webp 800w, /images/service-striping-1200w.webp 1200w, /images/service-striping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-work": {
+        "src": "/images/service-concrete-work.webp",
+        "srcset": "/images/service-concrete-work-400w.webp 400w, /images/service-concrete-work-800w.webp 800w, /images/service-concrete-work-1200w.webp 1200w, /images/service-concrete-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "parking-lot-maintenance": {
+        "src": "/images/service-parking-lot-maintenance.webp",
+        "srcset": "/images/service-parking-lot-maintenance-400w.webp 400w, /images/service-parking-lot-maintenance-800w.webp 800w, /images/service-parking-lot-maintenance-1200w.webp 1200w, /images/service-parking-lot-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-paving": {
+        "src": "/images/service-driveway-paving.webp",
+        "srcset": "/images/service-driveway-paving-400w.webp 400w, /images/service-driveway-paving-800w.webp 800w, /images/service-driveway-paving-1200w.webp 1200w, /images/service-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
